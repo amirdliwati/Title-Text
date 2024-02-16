@@ -1,0 +1,5 @@
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\TitleText\mylibrary\obj\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\TitleText\mylibrary\bin\Debug\mylibrary.dll
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\TitleText\mylibrary\bin\Debug\mylibrary.pdb
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\TitleText\mylibrary\obj\Debug\mylibrary.dll
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\TitleText\mylibrary\obj\Debug\mylibrary.pdb

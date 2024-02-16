@@ -1,0 +1,4 @@
+select [TypeTextMM].[Type] from [TypeTextMM]
+natural prediction join
+(select '‰Ÿ„' as [Word],
+        '«·„⁄·Ê„« ' as [Word]) as t
